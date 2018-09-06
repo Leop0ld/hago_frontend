@@ -1,0 +1,15 @@
+.cat-image-section {
+  display: inline-block;
+  box-sizing: border-box;
+  width: 75%;
+  height: 700px;
+}
+
+.cat-image-wrapper {
+  height: 700px;
+}
+
+.cat-image {
+  margin: 0 auto;
+  max-height: 700px;
+}

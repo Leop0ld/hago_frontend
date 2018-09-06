@@ -1,0 +1,22 @@
+.sidebar-section {
+  display: block;
+  box-sizing: border-box;
+  width: 25%;
+  height: 700px;
+  float: right;
+  text-align: left;
+}
+
+.sidebar-head {
+  height: 100px;
+  font-size: 48px;
+}
+
+.sidebar-body {
+  height: 400px;
+  font-size: 26px;
+}
+
+.sidebar-foot {
+  height: 200px;
+}
